@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
-    <label for="Age"><b>Please Enter Age: </b></label>
+    <label for="Age"><b>Please Enter your Age: </b></label>
     <input type="text" placeholder="Enter Age" name="Age" id="Age" required>
     <br>
 
