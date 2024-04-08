@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Please Enter Full Name: </b></label>
+    <label for="Name"><b>Please Enter Full Name here : </b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
@@ -13,7 +13,7 @@
     <br>
 
     
-    <label for="mobile"><b>Please Enter indian mobile: </b></label>
+    <label for="mobile"><b>Please Enter  mobile: </b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
