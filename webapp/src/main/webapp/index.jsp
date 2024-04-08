@@ -13,7 +13,7 @@
     <br>
 
     
-    <label for="mobile"><b>Please Enter mobile: </b></label>
+    <label for="mobile"><b>Please Enter indian mobile: </b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
