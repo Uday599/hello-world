@@ -4,16 +4,16 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Please Enter Full Name here : </b></label>
+    <label for="Name"><b>Please Enter Full Name  : </b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
-    <label for="Age"><b>Please Enter your Age: </b></label>
+    <label for="Age"><b>Please Enter Age: </b></label>
     <input type="text" placeholder="Enter Age" name="Age" id="Age" required>
     <br>
 
     
-    <label for="mobile"><b>Please Enter  mobile: </b></label>
+    <label for="mobile"><b>Please Enter mobile: </b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
